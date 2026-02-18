@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Giorgio-Ati&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Svillupatore%20Odoo&descSize=18&descAlignY=55&textBg=false"/>
 
-// <img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
-
 <div align="center">
 
 ### 🛠️ Odoo Stack & Skills
