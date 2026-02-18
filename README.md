@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giorgio-Ati&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="Giorgio-Ati's GitHub Stats" width="49%" />
+
   <img src="https://streak-stats.demolab.com/?user=Giorgio-Ati&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Giorgio-Ati's GitHub Streak" width="49%" />
 </p>
 
