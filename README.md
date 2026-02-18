@@ -20,9 +20,7 @@
   <img src="https://streak-stats.demolab.com/?user=Giorgio-Ati&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Giorgio-Ati's GitHub Streak" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Giorgio-Ati&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Giorgio-Ati's GitHub Trophies" />
-</p>
+
 
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Giorgio-Ati&theme=nightowl&radius=10" alt="Giorgio-Ati's Activity Graph" />
