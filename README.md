@@ -1,37 +1,68 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Giorgio-Ati&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Svillupatore%20Odoo&descSize=18&descAlignY=55&textBg=false"/>
-
 <div align="center">
 
-### 🛠️ Odoo Stack & Skills
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&customColorList=12,18,24&section=header&text=Giorgio-Ati&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Svillupatore%20Odoo&descAlignY=55&descSize=17"/>
 
-![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FFA500?style=for-the-badge&logo=xml&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Giorgio-Ati&style=flat-square&color=6a0dad&label=VISITORS)
 
 </div>
 
-<p align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=Giorgio-Ati&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Giorgio-Ati's GitHub Streak" width="49%" />
-</p>
-
-
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Giorgio-Ati&theme=nightowl&radius=10" alt="Giorgio-Ati's Activity Graph" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+<br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+
+### ⚙️ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=odoo,python,postgres,xml,js,ubuntu,docker,git&theme=dark" />
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Odoo+Developer;Python+%2B+PostgreSQL;Automation+%26+Integrations;git+push+origin+main" alt="Typing SVG" />
+</p>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Giorgio-Ati&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giorgio-Ati&layout=compact&theme=radical&hide_border=true" width="30%"/>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giorgio-Ati&theme=radical&hide_border=true" width="60%"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giorgio-Ati&theme=redical&hide_border=true&radius=12" width="90%"/>
+</p>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Giorgio-Ati&theme=darkhub&no-frame=true&row=1&column=6)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24,18,12&section=footer"/>
 </div>
