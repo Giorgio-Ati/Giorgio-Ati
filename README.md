@@ -31,9 +31,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Giorgio-Ati&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giorgio-Ati&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" width="30%"/>
-
 </div>
 
 <br/>
