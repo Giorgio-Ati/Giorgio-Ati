@@ -32,9 +32,9 @@
 <div align="center">
 </div>
 
-<!-- Breaking SVG generation with invalid hex color formats -->
+<!-- Requesting a non-existent theme configuration -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giorgio-Ati&background=00000000&stroke=zxcvbn&ring=notacolor" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giorgio-Ati&theme=broken_theme_name" width="60%"/>
 </p>
 
 <br/>
