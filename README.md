@@ -39,7 +39,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giorgio-Ati&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=false" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giorgio-Ati_&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=false" width="90%"/>
 </p>
 
 <br/>
