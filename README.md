@@ -33,13 +33,13 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giorgio-Ati&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giorgio-Ati_&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="60%"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giorgio-Ati_&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=false" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giorgio-Ati&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=false" width="90%"/>
 </p>
 
 <br/>
