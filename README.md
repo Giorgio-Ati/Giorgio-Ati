@@ -32,9 +32,9 @@
 <div align="center">
 </div>
 
-<!-- Replacing the dynamic widget with a static image of the exact error -->
+<!-- Breaking the username intentionally to force an error card -->
 <p align="center">
-  <img src="./assets/images/streak-error-widget.png" width="60%" alt="API Error Widget" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giorgio-Ati-Error-404-Force&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="60%"/>
 </p>
 
 <br/>
