@@ -32,9 +32,9 @@
 <div align="center">
 </div>
 
-<!-- Requesting a non-existent theme configuration -->
+<!-- Replacing the dynamic widget with a static image of the exact error -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giorgio-Ati&theme=broken_theme_name" width="60%"/>
+  <img src="./assets/images/streak-error-widget.png" width="60%" alt="API Error Widget" />
 </p>
 
 <br/>
