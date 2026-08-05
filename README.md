@@ -33,9 +33,9 @@
 </div>
 
 <!-- Breaking the username intentionally to force an error card -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?username=Giorgio-Ati&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="60%"/>
-</p> -->
+</p>
 
 <br/>
 
