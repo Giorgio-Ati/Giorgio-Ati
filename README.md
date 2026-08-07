@@ -20,7 +20,6 @@
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
 <br/>
 
 <p align="center">
