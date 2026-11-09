@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40"><defs><linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".8"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect width="900" height="40" fill="#000"/><rect x="40" y="19.5" width="820" height="1" fill="url(#f)"/>
+<path d="M450,8 L453,17 L462,20 L453,23 L450,32 L447,23 L438,20 L447,17Z" fill="#fff"><animateTransform attributeName="transform" type="rotate" from="0 450 20" to="360 450 20" dur="8s" repeatCount="indefinite"/></path>
+<circle r="2" fill="#fff"><animateMotion dur="5s" repeatCount="indefinite" path="M40,20 H860"/><animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/></circle>
+</svg>
